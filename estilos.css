@@ -1,0 +1,36 @@
+body
+{
+ 
+    margin : 0;
+    padding : 0;
+}
+
+.menu
+{
+
+display: flex;
+ justify-content: space-between;
+padding: 10px;
+
+
+background-color: brown(90,12,06);
+color: azure;
+
+}
+
+.menu a
+{
+ color: aliceblue;
+  font-size: 20px;
+}
+
+.conteudo
+{
+   width: 700px;
+   border: 1px solid rgb(red, green, blue);
+
+
+}
+
+
+
